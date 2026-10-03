@@ -78,22 +78,6 @@ Unsplash Images
 
 No framework or backend is required.
 
-## 📁 Project Structure
-
-```text
-roamora-single-page/
-├── index.html
-├── css/
-│   └── style.css
-├── images/
-│   └── README.md
-├── snapshots/
-│   ├── 01-home-preview.png
-│   ├── 02-destinations-preview.png
-│   └── 03-packages-preview.png
-└── README.md
-```
-
 ## 🚀 Run Locally
 
 Clone the repository and open `index.html`.
