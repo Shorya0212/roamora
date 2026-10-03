@@ -1,0 +1,1 @@
+Images are loaded from Unsplash URLs in index.html and are used as remote editorial photography for the demo website.
