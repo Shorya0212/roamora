@@ -64,18 +64,6 @@ The destination collection includes:
 
 ## 📸 Website Snapshots
 
-### 🏔️ Home
-
-![Roamora Home](snapshots/01-home-preview.png)
-
-### 🗺️ Destinations
-
-![Roamora Destinations](snapshots/02-destinations-preview.png)
-
-### 🧳 Packages
-
-![Roamora Packages](snapshots/03-packages-preview.png)
-
 ## 🛠️ Tech Stack
 
 ```text
